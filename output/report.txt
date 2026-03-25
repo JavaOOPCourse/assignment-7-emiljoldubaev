@@ -1,0 +1,7 @@
+Average: 87.0
+Highes: Eve - 95
+--- Sorted List ---
+Eve: 95
+Bob: 90
+Alice: 85
+David: 78
